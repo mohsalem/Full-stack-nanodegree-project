@@ -1,0 +1,3 @@
+user grader password 1234
+
+auhtorized_keys katbo 3'alat
