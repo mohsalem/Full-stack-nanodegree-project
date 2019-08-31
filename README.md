@@ -1,3 +1,7 @@
+Running application on desktop
+============================================
+
+
 To run this project, you'll need database software (provided by a Linux virtual machine) and the data to analyze.
 
 The virtual machine
@@ -30,7 +34,7 @@ you are now ready to open the website on address: localhost:5000
 
 the website allows you to login with your google account to add items and categories and delete and items you created or you can view available categories and items if you do not want to log in 
 
-Linux Server
+Server deployment using Linux Server
 ============================================
 
 
